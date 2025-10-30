@@ -21,7 +21,6 @@ You may **NOT**:
 
 - Use Auto Typer to spam, harass, or violate any law or third-party terms of service.  
 - Reverse engineer, decompile, or modify the software.  
-- Redistribute the software without explicit permission from the Author.
 
 ---
 
