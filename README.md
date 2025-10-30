@@ -19,8 +19,7 @@ The Author grants you a **non-exclusive, non-transferable license** to use Auto 
 
 You may **NOT**:
 
-- Use Auto Typer to spam, harass, or violate any law or third-party terms of service.  
-- Reverse engineer, decompile, or modify the software.  
+- Use Auto Typer to spam, harass, or violate any law or third-party terms of service.    
 
 ---
 
